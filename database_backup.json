@@ -1,0 +1,70 @@
+{
+  "apartments": [
+    {
+      "id": "1",
+      "type": "House",
+      "owner": {
+        "fullname": "Petras Petrauskas",
+        "email": "petras@gmail.com",
+        "phone": "+3707687283"
+      },
+      "roomCount": 3,
+      "squares": 80,
+      "address": {
+        "city": "Vilnius",
+        "country": "Lietuva",
+        "street": "Kauno g.",
+        "number": "23"
+      },
+      "price": {
+        "amount": 1300000,
+        "currency": "€"
+      },
+      "imgSrc": "https://images.adsttc.com/media/images/5ecd/d4ac/b357/65c6/7300/009d/large_jpg/02C.jpg?1590547607"
+    },
+    {
+      "id": "2",
+      "type": "Flat",
+      "owner": {
+        "fullname": "Kestutis Kazlauskas",
+        "email": "kestutis@gmail.com",
+        "phone": "+3707693845"
+      },
+      "roomCount": 4,
+      "squares": 65,
+      "address": {
+        "city": "Kaunas",
+        "country": "Lietuva",
+        "street": "Vilniaus g.",
+        "number": "34"
+      },
+      "price": {
+        "amount": 178549,
+        "currency": "$"
+      },
+      "imgSrc": "https://pix10.agoda.net/hotelImages/66178/0/a6814d8a47dd5b7870c568bd159033d1.jpg?s=1024x768"
+    },
+    {
+      "id": "3",
+      "type": "Cottage",
+      "owner": {
+        "fullname": "Aleksandra Urbonaite",
+        "email": "aleksandra@gmail.com",
+        "phone": "+3707688394"
+      },
+      "roomCount": 2,
+      "squares": 110,
+      "address": {
+        "city": "London",
+        "country": "United Kingdom",
+        "street": "Wales str.",
+        "number": "3"
+      },
+      "price": {
+        "amount": 1894392,
+        "currency": "€"
+      },
+      "imgSrc": "https://static.onecms.io/wp-content/uploads/sites/24/2019/01/2270901_cainc0259_1-2000.jpg"
+    }
+  ]
+}

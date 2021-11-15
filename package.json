@@ -1,0 +1,23 @@
+{
+  "name": "donatas-simkevicius-dom-test",
+  "version": "1.0.0",
+  "description": "CA DOM atsiskaitymas",
+  "main": "main.js",
+  "scripts": {
+    "start-unix": "node_modules/.bin/json-server --watch database.json",
+    "start-win": "node_modules\\.bin\\json-server --watch database.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeZer1/donatas-simkevicius-dom-test.git"
+  },
+  "author": "Donatas Simkevicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreeZer1/donatas-simkevicius-dom-test/issues"
+  },
+  "homepage": "https://github.com/FreeZer1/donatas-simkevicius-dom-test#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
