@@ -1,8 +1,9 @@
-# CA DOM atsiskaitymas
+# CodeAcademy DOM atsiskaitymas
 
 ## Reikiamos programos
+- Naršyklės
+- Visual Studio Code
 - Node.js
-- Naršyklė
 
 ## Instaliavimas
 - šio failo direktorijoje, įvykdykite komandą:
