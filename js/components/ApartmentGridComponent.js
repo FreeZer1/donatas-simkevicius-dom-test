@@ -53,7 +53,7 @@ class ApartmentGridComponent {
   render = () => {
     const {loading, apartments} = this.state;
     if(loading) {
-      this.htmlElement.innerHTML = `<div class="text-center"><img src="assets/loading.gif" height="200px"/ style="object-fit: cover"></div>`
+      this.htmlElement.innerHTML = `<div class="text-center"><img src="assets/loading.gif" height="300px"/ style="object-fit: cover"></div>`
     } else if (apartments.length > 0) {
       this.htmlElement.innerHTML = '';
       const apartmentElement = apartments
