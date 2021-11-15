@@ -65,7 +65,7 @@ class ApartmentGridComponent {
         .map(this.wrapInColumn);
       this.htmlElement.append(...apartmentElement);
     } else {
-      this.htmlElement.innerHTML = `<h2>Siuo metu nera parduodamu apartamentu</h2>`
+      this.htmlElement.innerHTML = `<h2 class="text-center">Siuo metu nera parduodamu apartamentu</h2>`
     };
   };
 
